@@ -1,0 +1,17 @@
+C:\Gabriel_Avaliação_CEP\bin\Debug\net7.0\Gabriel_Avaliação_CEP.exe
+C:\Gabriel_Avaliação_CEP\bin\Debug\net7.0\Gabriel_Avaliação_CEP.deps.json
+C:\Gabriel_Avaliação_CEP\bin\Debug\net7.0\Gabriel_Avaliação_CEP.runtimeconfig.json
+C:\Gabriel_Avaliação_CEP\bin\Debug\net7.0\Gabriel_Avaliação_CEP.dll
+C:\Gabriel_Avaliação_CEP\bin\Debug\net7.0\Gabriel_Avaliação_CEP.pdb
+C:\Gabriel_Avaliação_CEP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.csproj.AssemblyReference.cache
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.AssemblyInfoInputs.cache
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.AssemblyInfo.cs
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.csproj.CoreCompileInputs.cache
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.csproj.CopyComplete
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.dll
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\refint\Gabriel_Avaliação_CEP.dll
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.pdb
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\Gabriel_Avaliação_CEP.genruntimeconfig.cache
+C:\Gabriel_Avaliação_CEP\obj\Debug\net7.0\ref\Gabriel_Avaliação_CEP.dll
